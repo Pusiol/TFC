@@ -1,0 +1,23 @@
+ações de potências mais baixas devido aos elevados picos de corrente nos interruptores,
+os quais se traduzem em correntes eficazes mais altas e, consequentemente, maiores perdas
+por condução (SOARES et al., 2012)
+
+
+
+Todavia, apesar de diversas vantagens, as técnicas de integração fazem com que
+existam maiores esforços de tensão ou corrente sobre os componentes do conversor65
+(MARCHESAN, 2007)
+
+
+
+
+Por ter feito análise, Cazuza acreditava ter complexo de Édipo e de Elektra ao mesmo tempo, e a letra traz toda uma referência ao amor que ele sentia pela mãe e pelo pai (“nossos destinos foram traçados na maternidade”). Pela mãe no sentido da permissividade (“te trago mil rosas roubadas, pra desculpar minhas mentiras, minhas mancadas”). E pelo pai no sentido do respeito, de dar satisfações dos atos, (“E por você eu largo tudo: carreira, dinheiro, canudo”). Nesta última frase ele é genial quando nos faz pensar que por alguém ele abriria mão até de uma vida confortável. Na verdade, a mensagem é ao seu pai João Araújo, onde “carreira” não é de profissão, mas de Cocaína, e “canudo” não é diploma, mas sim o canudo, geralmente feito com nota de “dinheiro”, para aspirar o pó.
+
+
+Em ALMEIDA, et. al., (2013b), foi mostrado um conversor com capacidade de
+dimerização em alta frequência e elevado fator de potência para o acionamento de LEDs a
+partir da rede elétrica. A Figura 45 mostra a topologia proposta no referido trabalho. Foi
+mostrado que esta topologia possui um baixa distorção na corrente de entrada ao mesmo
+tempo que consegue controlar a potência entregue ao arranjo de LEDs utilizando a técnica de
+dimerização PWM. Como desvantagem deste conversor pode-se citar a baixa eficiência
+(menor que 85%).

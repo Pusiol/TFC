@@ -1,0 +1,11 @@
+Tabela 2.1. Pg 54
+
+Parâmetros elétricos e fotométricos do modelo Apollo 600 da Flip Chip Opto.
+
+Parâmetro @ Tref = 25° C Símbolo Valor (unidade)
+Dissipação máxima de potência Po 608,4 W
+Máxima corrente CC de operação IF 12 A
+Corrente CC de operação nominal I0 6 A
+Máxima temperatura de junção Tj 140º C
+Temperatura de cor correlata CCT 5000 K
+Fluxo luminoso na corrente máxima Fmax 60840 lm

@@ -1,0 +1,83 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 16.04.2 ] */
+
+/* [wxMaxima: input   start ] */
+L:2.5e-3;
+C:120e-6;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Vmin:80;
+Vmax:270;
+Fs:60e3;
+Vo:400;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Rsens:0.2;
+Imax:7;
+Vrsmax:Imax*Rsens;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Rpk1:10e3;
+Rpk2:Vrsmax*Rpk1/7.5;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Rff3:10e3;
+Rff1maisRff2:Rff3*(Vmin*0.9/1.414-1);
+Rff2:7.5*(Rff1maisRff2+Rff3)/(Vmin*0.9)-Rff3;
+Rff1:Rff1maisRff2-Rff2;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Rvac:float(Vmax*sqrt(2)/600e-6);
+Rb1:Rvac/4;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Iac:float(Vmin*sqrt(2)/Rvac);
+R7:3.75/2/Iac;
+Rmo:Vrsmax*1.12/2/Iac;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Ct=1.25/R7/Fs;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+ΔVrs:Vo*Rsens/L/Fs;
+Gca:5.2/ΔVrs;
+
+Rci:Rmo;
+Rcz:Gca*Rci;
+
+Fci:Vo*Rsens*Rcz/(5.2*2*float(%pi)*L*Rci);
+
+Ccz=1/(2*float(%pi)*Fci*Rcz);
+Ccp=1/(2*float(%pi)*Fs*Rcz);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+vo:400/(2*float(%pi)*120*C*Vo);
+Gva:4*0.015/vo;
+Rvi:470e3;
+Cvf:1/(2*float(%pi)*120*Rvi*Gva);
+Rvd:Rvi*7.5/(Vo-7.5);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Fvi:sqrt(4/(4*Vo*Rvi*C*Cvf*4*float(%pi)^2));
+Rvf=1/(2*float(%pi)*Fvi*Cvf);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+Gff:0.0027;
+fp:sqrt(Gff)*120;
+Cff1=1/(2*float(%pi)*fp*Rff2);
+Cff2=1/(2*float(%pi)*fp*Rff3);
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$

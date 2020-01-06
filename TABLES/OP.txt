@@ -1,0 +1,24 @@
+Tensão de entrada nominal (V_s)	220V
+Tensão de barramento (V_b)	400V
+Potência nominal (P)	500W
+Frequência de operação (f_s)	70KHz
+
+
+
+Acho que todo humano alfabetizado deveria conhecer o trabalho do BF Skinner e ser paranóico com o fato de 99? de sua vida ser pouca coisa além de uma grande caixa digital de condicionamento onde ele, o pombo, será eternamente manipulado.
+Escreveu ele, em um esforço inútil de, de dentro da caixa, usar a caixa para destruir a caixa.
+
+
+
+
+Trying to model a brain as a filter for external information is missing half the picture.
+
+Measurements of brain tissue, and corresponding computer simulations, show that our neural networks operate more like chaotic cellular automata – those are a category of systems kinda like Conway’s Game of Life – where the rules are adjustable in a way that the network behaves chaotically for a period and then falls back to being predictable. It has been shown that cellular automata with rules that straddle the point of making the network chaotic maximize the information processing capacity of the network. This effect is known as the “Edge of chaos”.
+
+There’s this narrow transition band from dull and robotic, predictable behavior, and the whole network just dissolving into chaotic noise, and real brains seem to go in and out through this band all the time as if they’re deliberately scrambling themselves to generate new information, rather than merely filtering extraneous information through some rules of logic or mathematical transfer functions that could be described as filters. Moreover, the activation patterns correspond better with non-deterministic chaotic action than deterministic chaotic action that results merely from the rules and arrangement of the network itself.
+
+Deterministic chaotic action is like a double pendulum – predictable in principle but not in practice. Non-deterministic chaotic action is like the double pendulum changing its mass randomly, making it non-predictable both in principle and in practice. All this is suggesting that the brain is leveraging the background noise of itself to generate new information, and that to me seems to be the “ghost in the machine” that is us.
+
+Attempts to model these processes with simulations of artificial neural networks don’t work, because computers can’t do non-determinism. They can go through the motions of generating pseudo-random numbers with an algorithm, but it is a fundamentally different system, or as how John Searle would put it, the computer lacks the necessary “causal power” to implement a mind.
+
+Generating a large number of random numbers by an algorithm – even if the algorithm is originally seeded by a true random event – is not the same thing as having a network that consists of 100 trillion true random number generators itself. The generated numbers are still causally linked, which means there’s just some things the virtual brain cannot do.

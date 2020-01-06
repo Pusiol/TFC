@@ -1,0 +1,21 @@
+
+Recentemente, um campo de estudo específico em iluminação de estado sólido
+considerando aplicações em ambientes exteriores de maior extensão tem despertado grande
+interesse da comunidade científica e industrial: os LEDs baseados na tecnologia COB (do
+inglês, chip-on-board). Essa tecnologia de disposição de LEDs em arranjos matriciais de
+substrato único possui algumas vantagens interessantes ao se trabalhar com níveis mais
+elevados de corrente e potência. As principais características dos COB LEDs residem na
+miniaturização da fonte de luz e na facilidade de concepção de placas de interface com
+dissipadores para a obtenção de melhores arranjos térmicos. Sendo assim, um dos objetivos
+gerais deste trabalho é o de investigar e avaliar parâmetros relativos a esses benefícios.
+O estudo dos COB LEDs em iluminação de ambientes exteriores que necessitam
+elevado fluxo luminoso, tanto na avaliação do seu desempenho quanto no desenvolvimento de
+controladores necessários para o seu correto funcionamento, é um campo fértil de pesquisa
+acadêmica com inúmeras questões ainda a serem discutidas. É desejável que os circuitos de
+acionamento de luminárias COB, além de elevada eficiência, possam apresentar elevado fator
+de potência, baixa distorção harmônica da corrente de entrada e longa vida útil. Nesse24
+contexto, essa tese tem como principal contribuição a avaliação geral de COB LEDs de extraalta corrente (EHC, do inglês extra-high current) e elevado fluxo luminoso, bem como a
+proposição de topologias de conversores estáticos que sejam adequadas para o seu
+acionamento em altos níveis de corrente (da ordem de 10 A) e de potência em iluminação (da
+ordem de 500 W). De forma mais específica, as contribuições desta tese podem ser
+sumarizadas como:

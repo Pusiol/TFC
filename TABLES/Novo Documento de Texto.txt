@@ -1,0 +1,159 @@
+Driver de dois estágios para acionamento de leds de alta corrente
+
+Introdução
+
+Neste trabalho será tratado o projeto e construção de um driver de led, para uso com uma luminária apollo 600, datasheet anexo. No decorrer do trabalho, será tratado o porquê da escolha da topologia adotada, o projeto de potência e de controle do primeiro estágio, do segundo e simulações do funcionamento isolado e conjunto. Por fim, apresentaremos resultados experimentais do protótipo.
+
+
+
+
+
+Capítulo 1: Topologia
+
+Em tempos recentes, tem sido adotada a premissa de se construir conversores o mais compactos possível, por economia de chaves e volume. No entanto, um conversor de dois estágios apresenta grandes vantagens com respeito a gerenciamento térmico e eficiência em relação a maioria dos tipos de integrados, justamente por possuir múltiplas chaves e por ter menos diodos que seus irmãos.
+
+Por ser um conversor on-line, o primeiro estágio deve ser capaz de drenar uma corrente puramente senoidal da fonte, ou o mais perto disso possível. Esse tipo de conversor é dito com PFC, do inglês Power Factor Control. Conversores com operação em DCM possuem PFC nativo(?), ou seja, por não possuírem memória, já que no início de cada ciclo de operação o indutor se encontra descarregado e a tensão de saída é idealmente constante, a corrente segue a tensão de entrada e com um simples filtro EMI se consegue obter corrente de entrada senoidal [tese do pedro].
+
+Os conversores DCM apresentam desvantagens, no entanto, notavelmente baixa eficiência e mau uso dos semicondutores. Ambos decorrem do fato de que é necessário garantir a operação em DCM em todos os pontos de operação com a mesma razão cíclica, o que leva a picos de corrente estreitos, e consequentemente dissipação elevada de energia (proporcional ao quadrado da corrente) e necessidade de semicondutores que os suportem, apenas para um curto período. A operação em CCM, por outro lado, permite um aproveitamento muito melhor dos semicondutores
+
+
+Subir tensão pra baixar corrente
+
+Segundo estágio abaixando
+
+extender razão cíclica. Maiores detalhes no capítulo próprio
+
+
+
+
+Capítulo 2: Primeiro estágio
+
+Como mencionado, a melhor opção para o primeiro estágio é um Boost CCM com PFC ativo. O projeto de potência aqui transcrito foi primeiro feito em [tcc do Bruno], onde pode ser consultado para maiores explicações.
+
+A potência de saída a ser obtida é ....
+.
+.
+.
+..
+.
+..
+.
+.
+.
+
+Para o projeto do controle, será usado o tradicional ci UCM3805, da unitrode, encapada pela texas nas palavras do Braga. O projeto segue o manual [achar] disponibilizado pela unitrode para o projeto.
+
+Falo um pouco de como funciona o ci, depois ressuscito aquele projeto
+
+
+
+
+Capítulo 3: Segundo estágio
+
+No segundo estágio o principal desafio é baixar a alta tensão do barramento, de 400V, para a tensão nominal do led, que corre em torno dos 40 a 50 volts, já que o ponto de operação é determinado pela corrente.
+
+.
+.
+
+.
+.
+.
+..
+.
+
+..
+.
+
+..
+
+
+
+O controle será implementado de forma digital, utilizando para isso uma placa tiva-C...
+
+Projeto do controle (Modelagem consulte Denis), estabilidade, discretização, considerações sobre aliasing (tenho uma teoria boa pra essa parte kkkk) e tá bão já.
+
+
+
+Capítulo 4: Simulações
+
+No primeiro estágio...
+
+
+No segundo...
+
+
+Tudo junto...
+
+
+
+
+Capítulo 5: Resultados práticos
+
+
+Finalmente, apresentamos fotografias e as formas de onda do protótipo construído...
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 6: Bônus - Considerações sobre atenuação ativa de ripple - Só se Dênis deixar
+
+Basicamente o último relatório do Braga.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

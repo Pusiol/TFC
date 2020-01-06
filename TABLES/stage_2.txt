@@ -1,0 +1,5 @@
+Indutores $450	\mu H$
+Capacitor de acoplamento	$8 \mu F$
+Capacitor de saída	$40 \mu F$
+
+

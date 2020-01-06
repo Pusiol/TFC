@@ -1,0 +1,142 @@
+/* [wxMaxima batch file version 1] [ DO NOT EDIT BY HAND! ]*/
+/* [ Created with wxMaxima version 16.04.2 ] */
+
+/* [wxMaxima: input   start ] */
+kill(all);
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+"Neste documento, deduzimos as expressôes que descrevem o comportamento";
+"do conversor com compensação ativa de ripple.";
+;
+;
+"Primeiro escrevemos a potência de entrada e a de saída no estágio de";
+"armazenamento de energia, representado pelo capacitor.";
+"A potência de entrada é uma senóide ao quadrado, pois o conversor deve";
+"emular uma carga resistiva. A potência de saída, por outro lado, será";
+"feita constante pelo controle do segundo estágio.";
+Pin(t):=2*P*sin(w*t)^2;
+Pout(t):=P;
+
+P:500$
+w:2*%pi*60$
+wxplot2d([Pin(t),Pout(t)], [t,0,0.03]);
+
+
+remvalue(P,w)$
+
+"Dessa forma, a energia no capacitor será:";
+E(w,P,t):=integrate(Pin(t)-Pout(t),t);
+"Ou:";
+Emid+ratsimp(E(w,P,t));
+
+
+"Esse estágio não produz energia, portanto ela deve ser estritamente"; 
+"positiva. Assim, podemos calcular o capacitor mínimo como:";
+EE(Emid,w,P,t):=Emid+''(ratsimp(E(w,P,t)))$
+Emid(C,Vmid):=C*Vmid^2/2;
+C(P,Vmid,w):=''(rhs(''(solve([EE(Emid(C,Vmid),w,P,%pi/4/w)=0], [C]))[1]));
+
+float(C(500,400,2*%pi*60));
+;
+;
+;
+;
+;
+;
+;
+;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+"Esse seria o caso de ambos os estágios serem buck-boost, mas há";
+"sérias desvantagens nisso. Nosso protótopo é um boost seguido de"; 
+"um buck, então restrições devem ser adicionadas.";
+;
+;
+"O primeiro estágio, como dito, é um boost. Portanto, a tensão de";
+"saída deve sempre ser superior a de entrada. Equacionando a energia";
+"da mesma forma que na célula anterior, encontramos a forma da tensão";
+"de barramento.";
+Vb(P,Vmid,w,t,C):=''(rhs(''(solve([EE(Emid(C,Vmid),w,P,t)=C*V^2/2], [V]))[2]));
+"A tensão de entrada, retificada, vale:";
+Vin(Vpk,w,t):=abs(Vpk*sin(w*t));
+
+"Igualando as duas, obtemos:";
+remfunction(C)$
+assume(Vpk*sin(t*w)>1)$
+C(P,Vpk,Vmid,w,t):=''(ratsimp(rhs(''(solve([Vin(Vpk,w,t)=Vb(P,Vmid,w,t,C)], [C]))[1])));
+
+"Isso agora é uma gambiarra. Temos que maximizar a expressão anterior em";
+"relação ao tempo, mas a preguiça me impede de fazer nesse momento do jeito";
+"certo, então devemos ver o valor máximo no plot abaixo. A dedução da expressão";
+"literal certamente será um esforço interessante.";
+wxplot2d([C(500,311,400,2*%pi*60,t)], [t,0,0.03]);
+
+"Abaixo a tensão de entrada e de saída com o capacitor pego a zói na figura anterior.";
+wxplot2d([Vin(311,2*%pi*60,t),Vb(500,400,2*%pi*60,t,0.000014)], [t,0,0.03]);
+
+
+"A razão saída/entrada não é de todo atípica. A faixa de ganho que o controle";
+"deve percorrer é essencialmente a mesma da operação normal. Resta saber se o 3854";
+"lidará bem com isso. O psim diz que sim.";
+wxplot2d([Vb(500,400,2*%pi*60,t,0.000014)/Vin(311,2*%pi*60,t)], [t,0,0.03], [y,0,10]);
+
+;
+;
+;
+;
+;
+;
+;
+;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+"Da mesma forma, porém em perspectiva inversa, o estágio de saída é um";
+"abaixador. Temos que garantir que a tensão de saída será sempre menor";
+"que a de barramento. Igualando as duas, obtemos:";
+remfunction(C)$
+assume(Vo>1)$
+C(P,Vo,Vmid,w):=''(ratsimp(rhs(''(solve([Vb(P,Vmid,w,%pi/4/w,C)=Vo], [C]))[1])));
+
+float(C(500,50,400,2*%pi*60));
+
+"Aqui a tensão de barramento e a de saída.";
+wxplot2d([Vb(500,400,2*%pi*60,t,C(500,50,400,2*%pi*60)),50], [t,0,0.03]);
+
+"Terminamos assim com uma restrição essencial e mais duas decorrentes";
+"de nossa topologia. O capacitor mínimo de projeto deverá ser maior que";
+"a maior das restrições.";
+
+;
+;
+;
+;
+;
+;
+;
+;
+/* [wxMaxima: input   end   ] */
+
+/* [wxMaxima: input   start ] */
+"Por fim, deve ser feita uma consideração operacional. Permitir maior";
+"ripple significa também submeter os componentes a um maior esforço.";
+"No último gráfico, apresentamos o ripple em função do capacitor para";
+"o caso estudado.";
+
+
+wxplot2d([-Vb(500,400,2*%pi*60,%pi/4/(2*%pi*60),C)+Vb(500,400,2*%pi*60,3*%pi/4/(2*%pi*60),C)], [C,0.000014,0.0002]);
+
+;
+;
+;
+;
+;
+;
+;
+;
+/* [wxMaxima: input   end   ] */
+
+/* Maxima can't load/batch files which end with a comment! */
+"Created with wxMaxima"$
