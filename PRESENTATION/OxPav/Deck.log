@@ -1,0 +1,1608 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.13)  18 DEC 2019 15:17
+entering extended mode
+**./Deck.tex
+(Deck.tex
+LaTeX2e <2018-12-01>
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamer.cls
+Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasemodes.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box27
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasedecode.sty
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+\beamer@decode@box=\box28
+)
+\beamer@commentbox=\box29
+\beamer@modecount=\count85
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box30
+\beamer@animcurrent=\box31
+\beamer@animshowbox=\box32
+\beamer@sectionbox=\box33
+\beamer@logobox=\box34
+\beamer@linebox=\box35
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/basiclayer\pgfcore.sty
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/systemlayer\pgfsys.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgfrcs.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfutil-common
+.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfutil-common
+-lists.tex))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfutil-latex.
+def
+\pgfutil@abb=\box36
+ (C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfrcs.code.te
+x (C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsys.code.
+tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfkeys.code.t
+ex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfkeysfiltere
+d.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\pgf@xd=\dimen138
+\pgf@yd=\dimen139
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count112
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsys-pdfte
+x.def
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsys-commo
+n-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsyssoftpa
+th.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/systemlayer\pgfsysprotoc
+ol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcore.code.
+tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmath.code.tex
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathcalc.code.te
+x
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathutil.code.te
+x)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathparser.code.
+tex
+\pgfmath@dimen=\dimen140
+\pgfmath@count=\count115
+\pgfmath@box=\box37
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.co
+de.tex
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.ba
+sic.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.tr
+igonometric.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.ra
+ndom.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.co
+mparison.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.ba
+se.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.ro
+und.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.mi
+sc.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfunctions.in
+tegerarithmetics.code.tex)))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmathfloat.code.t
+ex
+\c@pgfmathroundto@lastzeros=\count116
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfint.code.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepoints
+.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen141
+\pgf@picmaxx=\dimen142
+\pgf@picminy=\dimen143
+\pgf@picmaxy=\dimen144
+\pgf@pathminx=\dimen145
+\pgf@pathmaxx=\dimen146
+\pgf@pathminy=\dimen147
+\pgf@pathmaxy=\dimen148
+\pgf@xx=\dimen149
+\pgf@xy=\dimen150
+\pgf@yx=\dimen151
+\pgf@yy=\dimen152
+\pgf@zx=\dimen153
+\pgf@zy=\dimen154
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepathco
+nstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen155
+\pgf@path@lasty=\dimen156
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepathus
+age.code.tex
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen157
+\pgf@shorten@start@additional=\dimen158
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorescopes
+.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box38
+\pgf@hbox=\box39
+\pgf@layerbox@main=\box40
+\pgf@picture@serial@count=\count117
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoregraphi
+cstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen159
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoretransf
+ormations.code.tex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen160
+\pgf@pt@y=\dimen161
+\pgf@pt@temp=\dimen162
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorequick.
+code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreobject
+s.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepathpr
+ocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorearrows
+.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen163
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreshade.
+code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen164
+\pgf@sys@shading@range@num=\count118
+\pgf@shadingcount=\count119
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreimage.
+code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoreextern
+al.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box41
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorelayers
+.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcoretransp
+arency.code.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorepatter
+ns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/basiclayer\pgfcorerdf.co
+de.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count120
+\XC@countmixins=\count121
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count124
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `implicit' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count125
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen166
+\Fld@menulength=\count126
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count127
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count128
+\c@bookmark@seq@number=\count129
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaserequires.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasecompatibility
+.sty)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasefont.sty
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/sansmathaccent\sansmathaccent.
+sty
+Package: sansmathaccent 2013/03/28
+ (C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/filehook\filehook.sty
+Package: filehook 2019/10/03 v0.6 Hooks for input files
+)))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetranslator.st
+y (C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasemisc.sty)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetwoscreens.st
+y)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseoverlay.sty
+\beamer@argscount=\count130
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count131
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetitle.sty)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasesection.sty
+\c@lecture=\count132
+\c@part=\count133
+\c@section=\count134
+\c@subsection=\count135
+\c@subsubsection=\count136
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseframe.sty
+\beamer@framebox=\box42
+\beamer@frametitlebox=\box43
+\beamer@zoombox=\box44
+\beamer@zoomcount=\count137
+\beamer@zoomframecount=\count138
+\beamer@frametextheight=\dimen169
+\c@subsectionslide=\count139
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen170
+\c@framenumber=\count140
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseframesize.sty
+\beamer@splitbox=\box45
+\beamer@autobreakcount=\count141
+\beamer@autobreaklastheight=\dimen171
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseframecomponen
+ts.sty
+\beamer@footins=\box46
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasecolor.sty)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasenotes.sty
+\beamer@frameboxcopy=\box47
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetoc.sty)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetemplates.sty
+\beamer@sbttoks=\toks30
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseauxtemplates.
+sty (C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseboxes.sty
+\bmb@box=\box48
+\bmb@colorbox=\box49
+\bmb@boxshadow=\box50
+\bmb@boxshadowball=\box51
+\bmb@boxshadowballlarge=\box52
+\bmb@temp=\dimen172
+\bmb@dima=\dimen173
+\bmb@dimb=\dimen174
+\bmb@prevheight=\dimen175
+)
+\beamer@blockheadheight=\dimen176
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaselocalstructur
+e.sty ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count142
+\c@table=\count143
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasenavigation.st
+y
+\beamer@section@min@dim=\dimen177
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetheorems.sty
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen178
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen179
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count144
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count145
+\leftroot@=\count146
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count147
+\DOTSCASE@=\count148
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen180
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count149
+\c@MaxMatrixCols=\count150
+\dotsspace@=\muskip11
+\c@parentequation=\count151
+\dspbrk@lvl=\count152
+\tag@help=\toks33
+\row@=\count153
+\column@=\count154
+\maxfields@=\count155
+\andhelp@=\toks34
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count156
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasethemes.sty))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerthemedefault.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerfontthemedefault.
+sty)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamercolorthemedefault
+.sty)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerinnerthemedefault
+.sty
+\beamer@dima=\dimen187
+\beamer@dimb=\dimen188
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerouterthemedefault
+.sty))) (Theme/Packages.tex
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/frontendlayer\tikz.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/basiclayer\pgf.sty
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmoduleshapes.
+code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box55
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmoduleplot.co
+de.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-vers
+ion-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/compatibility\pgfcomp-vers
+ion-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgffor.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/utilities\pgfkeys.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgfkeys.code.t
+ex)) (C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmath.code.tex))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/utilities\pgffor.code.te
+x
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+ (C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz\tikz.
+code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/libraries\pgflibraryplot
+handlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count157
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikz@lastmovetox=\dimen198
+\tikz@lastmovetoy=\dimen199
+\tikzleveldistance=\dimen256
+\tikzsiblingdistance=\dimen257
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count158
+\tikznumberofchildren=\count159
+\tikznumberofcurrentchild=\count160
+\tikz@fig@count=\count161
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/modules\pgfmodulematrix.
+code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count162
+\pgfmatrixcurrentcolumn=\count163
+\pgf@matrix@numberofcolumns=\count164
+)
+\tikz@expandcount=\count165
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/libra
+ries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/libra
+ries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/generic/pgf/frontendlayer/tikz/libra
+ries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.sty
+\lst@mode=\count166
+\lst@gtempboxa=\box60
+\lst@token=\toks47
+\lst@length=\count167
+\lst@currlwidth=\dimen258
+\lst@column=\count168
+\lst@pos=\count169
+\lst@lostspace=\dimen259
+\lst@width=\dimen260
+\lst@newlines=\count170
+\lst@lineno=\count171
+\lst@maxwidth=\dimen261
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count172
+\lst@skipnumbers=\count173
+\lst@framebox=\box61
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/fontawesome\fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/fontawesome\fontawesomesymbols
+-generic.tex)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/fontawesome\fontawesomesymbols
+-pdftex.tex))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+))
+(beamerthemeoxonian.sty
+Package: beamerthemeoxonian 
+ (beamerfontthemeoxonian.sty
+Package: beamerfontthemeoxonian 
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerfontthemeserif.st
+y)) (beamercolorthemeoxonian.sty
+Package: beamercolorthemeoxonian 
+) (beamerinnerthemeoxonian.sty
+Package: beamerinnerthemeoxonian 
+)
+(beamerouterthemeoxonian.sty
+Package: beamerouterthemeoxonian 
+))
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip57
+\subfigcapskip=\skip58
+\subfigcaptopadj=\dimen262
+\subfigbottomskip=\skip59
+\subfigcapmargin=\dimen263
+\subfiglabelskip=\skip60
+\c@subfigure=\count174
+\c@lofdepth=\count175
+\c@subtable=\count176
+\c@lotdepth=\count177
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip61
+\subfig@bottom=\skip62
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/babel-portuges\portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count178
+\U@D=\dimen264
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+LaTeX Info: Redefining \textlatin on input line 2003.
+\bbl@dirlevel=\count179
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+)) (Deck.aux)
+\openout1 = `Deck.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/context/base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count180
+\scratchdimen=\dimen265
+\scratchbox=\box62
+\nofMPsegments=\count181
+\nofMParguments=\count182
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count183
+\MPscratchDim=\dimen266
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
+\everyMPtoPDFconversion=\toks49
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box63
+Package hyperref Info: Link coloring OFF on input line 22.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count186
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+
+(Deck.out) (Deck.out)
+\@outlinefile=\write5
+\openout5 = `Deck.out'.
+
+
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-basic-di
+ctionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-bibliogr
+aphy-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-environm
+ent-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-months-d
+ictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-numbers-
+dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\Users\1\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translator-theorem-
+dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@lstlisting=\count187
+ (Deck.nav)
+<Theme/Logos/OxfordLogoV3.png, id=56, 963.6pt x 295.85532pt>
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 22.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+<Theme/Logos/logo.png, id=58, 345.29pt x 115.43124pt>
+File: Theme/Logos/logo.png Graphic file (type png)
+<use Theme/Logos/logo.png>
+Package pdftex.def Info: Theme/Logos/logo.png  used on input line 25.
+(pdftex.def)             Requested size: 227.62204pt x 76.09502pt.
+ [1
+
+{C:/Users/1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Theme/Logos/l
+ogo.png>] (Deck.toc)
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 27.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [2
+
+ <./Theme/Logos/OxfordLogoV3.png>] [3
+
+]
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 49.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [4
+
+]
+<../../FIGURAS/cob.png, id=103, 587.19376pt x 456.95718pt>
+File: ../../FIGURAS/cob.png Graphic file (type png)
+<use ../../FIGURAS/cob.png>
+Package pdftex.def Info: ../../FIGURAS/cob.png  used on input line 66.
+(pdftex.def)             Requested size: 113.81102pt x 88.5659pt.
+<i/apolo.png, id=104, 352.31625pt x 332.74312pt>
+File: i/apolo.png Graphic file (type png)
+<use i/apolo.png>
+Package pdftex.def Info: i/apolo.png  used on input line 66.
+(pdftex.def)             Requested size: 113.81102pt x 107.48526pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 66.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [5
+
+ <../../FIGURAS/cob.png> <./i/apolo.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 86.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 86.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [6
+
+] [7
+
+]
+<../../ESQUEMAS/twostage.png, id=123, 366.61969pt x 156.585pt>
+File: ../../ESQUEMAS/twostage.png Graphic file (type png)
+<use ../../ESQUEMAS/twostage.png>
+Package pdftex.def Info: ../../ESQUEMAS/twostage.png  used on input line 108.
+(pdftex.def)             Requested size: 227.62204pt x 97.22026pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 108.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [8
+
+ <../../ESQUEMAS/twostage.png>]
+<../../ESQUEMAS/BOOST_EDSCIBUCK.png, id=130, 814.54312pt x 227.34938pt>
+File: ../../ESQUEMAS/BOOST_EDSCIBUCK.png Graphic file (type png)
+<use ../../ESQUEMAS/BOOST_EDSCIBUCK.png>
+Package pdftex.def Info: ../../ESQUEMAS/BOOST_EDSCIBUCK.png  used on input line
+ 118.
+(pdftex.def)             Requested size: 341.43306pt x 95.29875pt.
+
+Overfull \hbox (34.14319pt too wide) in paragraph at lines 118--118
+ [] 
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 118.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[9
+
+ <../../ESQUEMAS/BOOST_EDSCIBUCK.png>]
+<../../ESQUEMAS/boost.png, id=137, 390.70969pt x 179.92218pt>
+File: ../../ESQUEMAS/boost.png Graphic file (type png)
+<use ../../ESQUEMAS/boost.png>
+Package pdftex.def Info: ../../ESQUEMAS/boost.png  used on input line 129.
+(pdftex.def)             Requested size: 227.62204pt x 104.82164pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 129.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [10
+
+ <../../ESQUEMAS/boost.png>]
+<../../RABISCOS/cmc_wav.png, id=144, 319.94531pt x 127.97812pt>
+File: ../../RABISCOS/cmc_wav.png Graphic file (type png)
+<use ../../RABISCOS/cmc_wav.png>
+Package pdftex.def Info: ../../RABISCOS/cmc_wav.png  used on input line 139.
+(pdftex.def)             Requested size: 227.62204pt x 91.0506pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 139.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+
+[11
+
+ <../../RABISCOS/cmc_wav.png>]
+<../../ESQUEMAS/PFC_CTRL.png, id=151, 668.4975pt x 432.11438pt>
+File: ../../ESQUEMAS/PFC_CTRL.png Graphic file (type png)
+<use ../../ESQUEMAS/PFC_CTRL.png>
+Package pdftex.def Info: ../../ESQUEMAS/PFC_CTRL.png  used on input line 149.
+(pdftex.def)             Requested size: 227.62204pt x 147.13452pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 149.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [12
+
+ <../../ESQUEMAS/PFC_CTRL.png>]
+<../../ESQUEMAS/vff.png, id=158, 322.20375pt x 233.37187pt>
+File: ../../ESQUEMAS/vff.png Graphic file (type png)
+<use ../../ESQUEMAS/vff.png>
+Package pdftex.def Info: ../../ESQUEMAS/vff.png  used on input line 171.
+(pdftex.def)             Requested size: 78.5645pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\OT1/cmr/m/n/9 (a) Fil-tro de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+\OT1/cmr/m/n/9 com-pensac~ao
+ []
+
+<../../ESQUEMAS/vfo.png, id=159, 402.00188pt x 373.395pt>
+File: ../../ESQUEMAS/vfo.png Graphic file (type png)
+<use ../../ESQUEMAS/vfo.png>
+Package pdftex.def Info: ../../ESQUEMAS/vfo.png  used on input line 171.
+(pdftex.def)             Requested size: 61.26071pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]\OT1/cmr/m/n/9 (b) In-te-gra-dor
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+\OT1/cmr/m/n/9 da tens~ao de
+ []
+
+<../../ESQUEMAS/vci.png, id=160, 430.60875pt x 304.88907pt>
+File: ../../ESQUEMAS/vci.png Graphic file (type png)
+<use ../../ESQUEMAS/vci.png>
+Package pdftex.def Info: ../../ESQUEMAS/vci.png  used on input line 171.
+(pdftex.def)             Requested size: 80.36441pt x 56.9055pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 171.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[13
+
+ <../../ESQUEMAS/vff.png> <../../ESQUEMAS/vfo.png> <../../ESQUEMAS/vci.png>]
+<../../RABISCOS/fbd_slus336a.png, id=169, 578.16pt x 278.54062pt>
+File: ../../RABISCOS/fbd_slus336a.png Graphic file (type png)
+<use ../../RABISCOS/fbd_slus336a.png>
+Package pdftex.def Info: ../../RABISCOS/fbd_slus336a.png  used on input line 18
+1.
+(pdftex.def)             Requested size: 227.62204pt x 109.65894pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 181.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[14
+
+ <../../RABISCOS/fbd_slus336a.png>]
+<../../ESQUEMAS/PFC_BOOST.png, id=176, 730.22812pt x 438.8897pt>
+File: ../../ESQUEMAS/PFC_BOOST.png Graphic file (type png)
+<use ../../ESQUEMAS/PFC_BOOST.png>
+Package pdftex.def Info: ../../ESQUEMAS/PFC_BOOST.png  used on input line 191.
+(pdftex.def)             Requested size: 227.62204pt x 136.80444pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 191.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [15
+
+ <../../ESQUEMAS/PFC_BOOST.png>]
+<../../GRAFICOS/PFC_OUTPUT.png, id=183, 581.92406pt x 439.6425pt>
+File: ../../GRAFICOS/PFC_OUTPUT.png Graphic file (type png)
+<use ../../GRAFICOS/PFC_OUTPUT.png>
+Package pdftex.def Info: ../../GRAFICOS/PFC_OUTPUT.png  used on input line 206.
+
+(pdftex.def)             Requested size: 150.6396pt x 113.81102pt.
+<../../GRAFICOS/PFC_PERTUB.png, id=184, 526.96875pt x 441.14813pt>
+File: ../../GRAFICOS/PFC_PERTUB.png Graphic file (type png)
+<use ../../GRAFICOS/PFC_PERTUB.png>
+Package pdftex.def Info: ../../GRAFICOS/PFC_PERTUB.png  used on input line 206.
+
+(pdftex.def)             Requested size: 135.94724pt x 113.81102pt.
+
+Overfull \hbox (15.797pt too wide) in paragraph at lines 206--206
+ [] 
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 206.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[16
+
+ <../../GRAFICOS/PFC_OUTPUT.png> <../../GRAFICOS/PFC_PERTUB.png>]
+<../../ESQUEMAS/_EDSCIBUCK_PNT.png, id=192, 403.5075pt x 218.31563pt>
+File: ../../ESQUEMAS/_EDSCIBUCK_PNT.png Graphic file (type png)
+<use ../../ESQUEMAS/_EDSCIBUCK_PNT.png>
+Package pdftex.def Info: ../../ESQUEMAS/_EDSCIBUCK_PNT.png  used on input line 
+218.
+(pdftex.def)             Requested size: 227.62204pt x 123.15533pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 218.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [17
+
+ <../../ESQUEMAS/_EDSCIBUCK_PNT.png>]
+<../../ESQUEMAS/split.png, id=198, 392.96812pt x 462.97969pt>
+File: ../../ESQUEMAS/split.png Graphic file (type png)
+<use ../../ESQUEMAS/split.png>
+Package pdftex.def Info: ../../ESQUEMAS/split.png  used on input line 231.
+(pdftex.def)             Requested size: 144.89824pt x 170.71652pt.
+<I/opmod.png, id=199, 233.37187pt x 459.96844pt>
+File: I/opmod.png Graphic file (type png)
+<use I/opmod.png>
+Package pdftex.def Info: I/opmod.png  used on input line 231.
+(pdftex.def)             Requested size: 86.61687pt x 170.71652pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 231.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [18
+
+ <../../ESQUEMAS/split.png> <./I/opmod.png>]
+<../../ESQUEMAS/ctrl_egibc_2.png, id=207, 680.5425pt x 344.78813pt>
+File: ../../ESQUEMAS/ctrl_egibc_2.png Graphic file (type png)
+<use ../../ESQUEMAS/ctrl_egibc_2.png>
+Package pdftex.def Info: ../../ESQUEMAS/ctrl_egibc_2.png  used on input line 25
+4.
+(pdftex.def)             Requested size: 227.62204pt x 115.32191pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 254.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+
+[19
+
+ <../../ESQUEMAS/ctrl_egibc_2.png>]
+<../../GRAFICOS/stage2_hf.png, id=214, 600.74437pt x 455.45157pt>
+File: ../../GRAFICOS/stage2_hf.png Graphic file (type png)
+<use ../../GRAFICOS/stage2_hf.png>
+Package pdftex.def Info: ../../GRAFICOS/stage2_hf.png  used on input line 267.
+(pdftex.def)             Requested size: 150.11238pt x 113.81102pt.
+<../../GRAFICOS/pc_disturb.png, id=215, 369.63094pt x 425.33907pt>
+File: ../../GRAFICOS/pc_disturb.png Graphic file (type png)
+<use ../../GRAFICOS/pc_disturb.png>
+Package pdftex.def Info: ../../GRAFICOS/pc_disturb.png  used on input line 267.
+
+(pdftex.def)             Requested size: 98.9049pt x 113.81102pt.
+
+Underfull \hbox (badness 2150) in paragraph at lines 267--267
+[]\OT1/cmr/m/n/9 (b) Sada do con-ver-sor
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 267.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[20
+
+ <../../GRAFICOS/stage2_hf.png> <../../GRAFICOS/pc_disturb.png>] [21
+
+]
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 296.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+
+[22
+
+]
+<../../FOTOGRAFIAS/P_20180826_175623.jpg, id=235, 1606.0pt x 903.375pt>
+File: ../../FOTOGRAFIAS/P_20180826_175623.jpg Graphic file (type jpg)
+<use ../../FOTOGRAFIAS/P_20180826_175623.jpg>
+Package pdftex.def Info: ../../FOTOGRAFIAS/P_20180826_175623.jpg  used on input
+ line 315.
+(pdftex.def)             Requested size: 101.15892pt x 56.9055pt.
+<../../FOTOGRAFIAS/P_20180910_174425.jpg, id=236, 3276.24pt x 1842.885pt>
+File: ../../FOTOGRAFIAS/P_20180910_174425.jpg Graphic file (type jpg)
+<use ../../FOTOGRAFIAS/P_20180910_174425.jpg>
+Package pdftex.def Info: ../../FOTOGRAFIAS/P_20180910_174425.jpg  used on input
+ line 315.
+(pdftex.def)             Requested size: 101.13246pt x 56.9055pt.
+<../../FOTOGRAFIAS/P_20180910_103427.jpg, id=237, 3276.24pt x 1842.885pt>
+File: ../../FOTOGRAFIAS/P_20180910_103427.jpg Graphic file (type jpg)
+<use ../../FOTOGRAFIAS/P_20180910_103427.jpg>
+Package pdftex.def Info: ../../FOTOGRAFIAS/P_20180910_103427.jpg  used on input
+ line 315.
+(pdftex.def)             Requested size: 101.13246pt x 56.9055pt.
+<../../FOTOGRAFIAS/P_20181113_175207.jpg, id=238, 3276.24pt x 1842.885pt>
+File: ../../FOTOGRAFIAS/P_20181113_175207.jpg Graphic file (type jpg)
+<use ../../FOTOGRAFIAS/P_20181113_175207.jpg>
+Package pdftex.def Info: ../../FOTOGRAFIAS/P_20181113_175207.jpg  used on input
+ line 315.
+(pdftex.def)             Requested size: 101.13246pt x 56.9055pt.
+
+Underfull \hbox (badness 1052) in paragraph at lines 315--315
+[]\OT1/cmr/m/n/9 (d) De-nis li-gando a to-
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 315.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[23
+
+ <../../FOTOGRAFIAS/P_20180826_175623.jpg> <../../FOTOGRAFIAS/P_20180910_174425
+.jpg> <../../FOTOGRAFIAS/P_20180910_103427.jpg> <../../FOTOGRAFIAS/P_20181113_1
+75207.jpg>]
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 332.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [24
+
+]
+<../../FOTOGRAFIAS/P_20180712_152422.jpg, id=249, 2055.68pt x 1156.32pt>
+File: ../../FOTOGRAFIAS/P_20180712_152422.jpg Graphic file (type jpg)
+<use ../../FOTOGRAFIAS/P_20180712_152422.jpg>
+Package pdftex.def Info: ../../FOTOGRAFIAS/P_20180712_152422.jpg  used on input
+ line 351.
+(pdftex.def)             Requested size: 101.15892pt x 56.9055pt.
+<../../FOTOGRAFIAS/D1.png, id=250, 1388.18625pt x 1040.88875pt>
+File: ../../FOTOGRAFIAS/D1.png Graphic file (type png)
+<use ../../FOTOGRAFIAS/D1.png>
+Package pdftex.def Info: ../../FOTOGRAFIAS/D1.png  used on input line 351.
+(pdftex.def)             Requested size: 75.87389pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+[]\OT1/cmr/m/n/9 (f) Placa de
+ []
+
+<../../FOTOGRAFIAS/D2.jpg, id=251, 427.05pt x 320.2875pt>
+File: ../../FOTOGRAFIAS/D2.jpg Graphic file (type jpg)
+<use ../../FOTOGRAFIAS/D2.jpg>
+Package pdftex.def Info: ../../FOTOGRAFIAS/D2.jpg  used on input line 351.
+(pdftex.def)             Requested size: 75.86868pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+[]\OT1/cmr/m/n/9 (g) Sen-so-re-a-mento
+ []
+
+<../../FOTOGRAFIAS/P_20180712_152414.jpg, id=252, 2055.68pt x 1156.32pt>
+File: ../../FOTOGRAFIAS/P_20180712_152414.jpg Graphic file (type jpg)
+<use ../../FOTOGRAFIAS/P_20180712_152414.jpg>
+Package pdftex.def Info: ../../FOTOGRAFIAS/P_20180712_152414.jpg  used on input
+ line 351.
+(pdftex.def)             Requested size: 101.15892pt x 56.9055pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--351
+[]\OT1/cmr/m/n/9 (h) Tiva co-nec-tado a
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 351.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[25
+
+ <../../FOTOGRAFIAS/P_20180712_152422.jpg> <../../FOTOGRAFIAS/D1.png> <../../FO
+TOGRAFIAS/D2.jpg> <../../FOTOGRAFIAS/P_20180712_152414.jpg>]
+<../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/PFC_ACM.png, id=259, 600.5637pt 
+x 361.1091pt>
+File: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/PFC_ACM.png Graphic file (t
+ype png)
+<use ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/PFC_ACM.png>
+Package pdftex.def Info: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/PFC_ACM.
+png  used on input line 364.
+(pdftex.def)             Requested size: 141.95723pt x 85.35826pt.
+<../../GRAFICOS/TEK/tek00042.png, id=260, 803.0pt x 481.8pt>
+File: ../../GRAFICOS/TEK/tek00042.png Graphic file (type png)
+<use ../../GRAFICOS/TEK/tek00042.png>
+Package pdftex.def Info: ../../GRAFICOS/TEK/tek00042.png  used on input line 36
+4.
+(pdftex.def)             Requested size: 142.25475pt x 85.35826pt.
+
+Overfull \hbox (13.42213pt too wide) in paragraph at lines 364--364
+ [] 
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 364.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[26
+
+ <../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/PFC_ACM.png
+
+pdfTeX warning: pdflatex.exe (file ../../FIGURAS/Figuras_TFC_Eric/Formas_de_ond
+a/PFC_ACM.png): large interlaced PNG might cause out of memory (use non-interla
+ced PNG to fix this)
+> <../../GRAFICOS/TEK/tek00042.png (PNG copy)>]
+<../../GRAFICOS/TEK/tek00064.png, id=265, 803.0pt x 481.8pt>
+File: ../../GRAFICOS/TEK/tek00064.png Graphic file (type png)
+<use ../../GRAFICOS/TEK/tek00064.png>
+Package pdftex.def Info: ../../GRAFICOS/TEK/tek00064.png  used on input line 37
+6.
+(pdftex.def)             Requested size: 142.25475pt x 85.35826pt.
+<../../GRAFICOS/TEK/tek00058.png, id=266, 803.0pt x 481.8pt>
+File: ../../GRAFICOS/TEK/tek00058.png Graphic file (type png)
+<use ../../GRAFICOS/TEK/tek00058.png>
+Package pdftex.def Info: ../../GRAFICOS/TEK/tek00058.png  used on input line 37
+6.
+(pdftex.def)             Requested size: 142.25475pt x 85.35826pt.
+
+Overfull \hbox (13.71965pt too wide) in paragraph at lines 376--376
+ [] 
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 376.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[27
+
+ <../../GRAFICOS/TEK/tek00064.png (PNG copy)> <../../GRAFICOS/TEK/tek00058.png 
+(PNG copy)>]
+<../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Diodos_EGIBC.png, id=272, 592.37
+31pt x 353.6412pt>
+File: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Diodos_EGIBC.png Graphic fi
+le (type png)
+<use ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Diodos_EGIBC.png>
+Package pdftex.def Info: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Diodos_E
+GIBC.png  used on input line 388.
+(pdftex.def)             Requested size: 142.9769pt x 85.35826pt.
+<../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/MOSFETs_EGIBC.png, id=273, 592.3
+731pt x 353.6412pt>
+File: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/MOSFETs_EGIBC.png Graphic f
+ile (type png)
+<use ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/MOSFETs_EGIBC.png>
+Package pdftex.def Info: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/MOSFETs_
+EGIBC.png  used on input line 388.
+(pdftex.def)             Requested size: 142.9769pt x 85.35826pt.
+
+Overfull \hbox (15.16396pt too wide) in paragraph at lines 388--388
+ [] 
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 388.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[28
+
+ <../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Diodos_EGIBC.png
+
+pdfTeX warning: pdflatex.exe (file ../../FIGURAS/Figuras_TFC_Eric/Formas_de_ond
+a/Diodos_EGIBC.png): large interlaced PNG might cause out of memory (use non-in
+terlaced PNG to fix this)
+> <../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/MOSFETs_EGIBC.png
+
+pdfTeX warning: pdflatex.exe (file ../../FIGURAS/Figuras_TFC_Eric/Formas_de_ond
+a/MOSFETs_EGIBC.png): large interlaced PNG might cause out of memory (use non-i
+nterlaced PNG to fix this)
+>]
+<../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Inductors_EGIBC.png, id=279, 593
+.0958pt x 361.1091pt>
+File: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Inductors_EGIBC.png Graphic
+ file (type png)
+<use ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Inductors_EGIBC.png>
+Package pdftex.def Info: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Inductor
+s_EGIBC.png  used on input line 400.
+(pdftex.def)             Requested size: 140.19202pt x 85.35826pt.
+<../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Detailed_220V_to_240V.png, id=28
+0, 590.6868pt x 355.0866pt>
+File: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Detailed_220V_to_240V.png G
+raphic file (type png)
+<use ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Detailed_220V_to_240V.png>
+Package pdftex.def Info: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Detailed
+_220V_to_240V.png  used on input line 400.
+(pdftex.def)             Requested size: 141.99304pt x 85.35826pt.
+
+Overfull \hbox (11.39522pt too wide) in paragraph at lines 400--400
+ [] 
+ []
+
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 400.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+[29
+
+ <../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Inductors_EGIBC.png
+
+pdfTeX warning: pdflatex.exe (file ../../FIGURAS/Figuras_TFC_Eric/Formas_de_ond
+a/Inductors_EGIBC.png): large interlaced PNG might cause out of memory (use non
+-interlaced PNG to fix this)
+> <../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Detailed_220V_to_240V.png
+
+pdfTeX warning: pdflatex.exe (file ../../FIGURAS/Figuras_TFC_Eric/Formas_de_ond
+a/Detailed_220V_to_240V.png): large interlaced PNG might cause out of memory (u
+se non-interlaced PNG to fix this)
+>]
+<../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Dimming.png, id=286, 593.0958pt 
+x 355.8093pt>
+File: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Dimming.png Graphic file (t
+ype png)
+<use ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Dimming.png>
+Package pdftex.def Info: ../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Dimming.
+png  used on input line 412.
+(pdftex.def)             Requested size: 142.28255pt x 85.35826pt.
+<../../FIGURAS/Figuras_TFC_Eric/Figuras/iec61000-3-2_controlled_two-stage_pt.pn
+g, id=287, 550.09515pt x 428.44064pt>
+File: ../../FIGURAS/Figuras_TFC_Eric/Figuras/iec61000-3-2_controlled_two-stage_
+pt.png Graphic file (type png)
+<use ../../FIGURAS/Figuras_TFC_Eric/Figuras/iec61000-3-2_controlled_two-stage_p
+t.png>
+Package pdftex.def Info: ../../FIGURAS/Figuras_TFC_Eric/Figuras/iec61000-3-2_co
+ntrolled_two-stage_pt.png  used on input line 412.
+(pdftex.def)             Requested size: 109.58899pt x 85.35826pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 412.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [30
+
+ <../../FIGURAS/Figuras_TFC_Eric/Formas_de_onda/Dimming.png
+
+pdfTeX warning: pdflatex.exe (file ../../FIGURAS/Figuras_TFC_Eric/Formas_de_ond
+a/Dimming.png): large interlaced PNG might cause out of memory (use non-interla
+ced PNG to fix this)
+> <../../FIGURAS/Figuras_TFC_Eric/Figuras/iec61000-3-2_controlled_two-stage_pt.
+png
+
+pdfTeX warning: pdflatex.exe (file ../../FIGURAS/Figuras_TFC_Eric/Figuras/iec61
+000-3-2_controlled_two-stage_pt.png): large interlaced PNG might cause out of m
+emory (use non-interlaced PNG to fix this)
+>]
+<I/NIMO.png, id=293, 115.43124pt x 115.43124pt>
+File: I/NIMO.png Graphic file (type png)
+<use I/NIMO.png>
+Package pdftex.def Info: I/NIMO.png  used on input line 439.
+(pdftex.def)             Requested size: 56.90526pt x 56.9055pt.
+<I/UFJF.png, id=294, 790.45313pt x 514.92375pt>
+File: I/UFJF.png Graphic file (type png)
+<use I/UFJF.png>
+Package pdftex.def Info: I/UFJF.png  used on input line 439.
+(pdftex.def)             Requested size: 87.34813pt x 56.9055pt.
+<I/capes.png, id=295, 277.7577pt x 214.6419pt>
+File: I/capes.png Graphic file (type png)
+<use I/capes.png>
+Package pdftex.def Info: I/capes.png  used on input line 439.
+(pdftex.def)             Requested size: 73.6351pt x 56.9055pt.
+<I/LMO.pdf, id=296, 284.52768pt x 284.51308pt>
+File: I/LMO.pdf Graphic file (type pdf)
+<use I/LMO.pdf>
+Package pdftex.def Info: I/LMO.pdf  used on input line 439.
+(pdftex.def)             Requested size: 56.90453pt x 56.9055pt.
+File: Theme/Logos/OxfordLogoV3.png Graphic file (type png)
+<use Theme/Logos/OxfordLogoV3.png>
+Package pdftex.def Info: Theme/Logos/OxfordLogoV3.png  used on input line 439.
+(pdftex.def)             Requested size: 58.27258pt x 17.89049pt.
+ [31
+
+ <./I/NIMO.png> <./I/UFJF.png> <./I/capes.png> <./I/LMO.pdf>]
+\tf@nav=\write6
+\openout6 = `Deck.nav'.
+
+\tf@toc=\write7
+\openout7 = `Deck.toc'.
+
+\tf@snm=\write8
+\openout8 = `Deck.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 479.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 479.
+ (Deck.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 479.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 479.
+Package rerunfilecheck Info: File `Deck.out' has not changed.
+(rerunfilecheck)             Checksum: C5C5DFC9CE99067E8A31139D05C1775C;766.
+ ) 
+Here is how much of TeX's memory you used:
+ 24357 strings out of 492946
+ 463034 string characters out of 3135539
+ 543736 words of memory out of 3000000
+ 27606 multiletter control sequences out of 15000+200000
+ 9817 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 56i,16n,57p,799b,909s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb>
+Output written on Deck.pdf (31 pages, 10178639 bytes).
+PDF statistics:
+ 352 PDF objects out of 1000 (max. 8388607)
+ 77 named destinations out of 1000 (max. 500000)
+ 351 words of extra memory for PDF output out of 10000 (max. 10000000)
+
